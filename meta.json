@@ -1,0 +1,23 @@
+{
+  "repo": "massive-x-full",
+  "product": "Massive X Full",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "synthesizer",
+  "topics": [
+    "massive-x",
+    "wavetable-synth",
+    "mod-matrix-desktop",
+    "massive-windows",
+    "sound-design-2026",
+    "how-to-install-massive-x",
+    "massive-x-package",
+    "macro-performer-suite",
+    "preset-tag-desk",
+    "ni-massive-complete"
+  ],
+  "site": "toolix.me"
+}
